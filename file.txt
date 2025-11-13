@@ -1,0 +1,27 @@
+This Project Is About Car Rental Web Site 
+
+---------
+FEATURES
+---------
+home section 
+cars section
+location section
+car models section
+blog section
+logo section
+download section
+contact form 
+
+---------
+LOGICS
+---------
+
+swiper js - slider
+remixicon - icons 
+scrollrevel - css load animation 
+media query - responsive 
+css root variable - store data
+section layout - html strucuture
+google font - custom font
+
+
